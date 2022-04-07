@@ -11,10 +11,10 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v2
-       - uses: lucymell/gitartwork@v1
+       - uses: RemonAhammad/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: lucymell
             # Text on contribution graph 
             text: LUCYMELL
-       - uses: lucymell/simple-push-action@v1
+       - uses: RemonAhammad/simple-push-action@v1
