@@ -1,4 +1,4 @@
-![alt text](C:\Users\Lucy\Desktop\ALX\New folder\ml-gif.gif)
+
 ![gitartwork](gitartwork.svg)
 
 [![lucymell's github activity graph](https://activity-graph.herokuapp.com/graph?username=lucymell&theme=react-dark)](https://github.com/lucymell/github-readme-activity-graph)
