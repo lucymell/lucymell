@@ -7,8 +7,9 @@ I am FullStack Software Engineering student at ALX SE Program. I love to travel 
 
 # Check out my latest videos on my [YouTube Channel](https://www.youtube.com/lucynyam?sub_confirmation=1).
 
-![](https://komarev.com/ghpvc/?username=lucymell)
 
+
+![Frrole_Lead](https://user-images.githubusercontent.com/99334158/178338285-80180c10-185c-42c7-8cea-a436f589fb76.gif)
 
   
 - 💼 any freelance work? do reach, [email](mailto:lulucy.001@gmail.com) :)
