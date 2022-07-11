@@ -5,7 +5,7 @@
 I am FullStack Software Engineering student at ALX SE Program. I love to travel and learn to code. I want to change the world while implementing my ideas. 
 
 
-# Check out my latest videos on my [YouTube Channel](https://www.youtube.com/lucynyam?sub_confirmation=1).
+# Check me out on [Twitter](https://www.twitter.com/lucymutuota?follow_confirmation=1).
 
 
 
