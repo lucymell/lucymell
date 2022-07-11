@@ -35,7 +35,7 @@ I am FullStack Software Engineering student at ALX SE Program. I love to travel 
 Connect with me
 
 
-[![Instagram](https://raw.githubusercontent.com/lucymell/lucymell/master/soc/ig.svg)](https://instagram.com/lucymutuota)[![Twitter](https://raw.githubusercontent.com/lucymell/lucymell/master/soc/tw.svg)](https://twitter.com/lucymutuota)[![Facebook](https://raw.githubusercontent.com/ucymell/ucymell/master/soc/fb.svg)](https://www.facebook.com//lucy.mutuota)[![YouTube](https://raw.githubusercontent.com/lucymell/lucymell/master/soc/yt.svg)](https://www.youtube.com/lucynyam)
+[![Instagram](https://raw.githubusercontent.com/lucymell/lucymell/master/soc/ig.svg)](https://instagram.com/lucymutuota)[![Twitter](https://raw.githubusercontent.com/lucymell/lucymell/master/soc/tw.svg)](https://twitter.com/lucymutuota)[![Facebook](https://raw.githubusercontent.com/ucymell/ucymell/master/soc/fb.svg)](https://www.facebook.com//lucy.mutuota)[![YouTube](https://raw.githubusercontent.com/lucymell/lucymell/master/soc/yt.svg)](https://www.youtube.com/lucynyam)[![Linkedin](https://raw.githubusercontent.com/lucymell/lucymell/master/soc/yt.svg)](https://www.linkedin.com/in/lucymutuota/)
 
 
 
